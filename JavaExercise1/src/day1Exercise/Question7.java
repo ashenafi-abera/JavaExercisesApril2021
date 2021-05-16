@@ -1,5 +1,12 @@
 package day1Exercise;
 
+/*Write a Java program to print the area and perimeter of a circle. 
+Test 
+Data:
+Hint: Use 
+Math.PI
+Radius = 7.5*/
+
 public class Question7 {
 
 	public static void main(String[] args) {

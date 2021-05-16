@@ -1,5 +1,11 @@
 package day1Exercise;
 
+/*Write a Java program to print the sum (addition), multiply, subtract, 
+divide and remainder of two numbers. 
+Test Data:
+Input first number: 125
+Input second number: 24*/
+
 public class Question5 {
 
 	public static void main(String[] args) {

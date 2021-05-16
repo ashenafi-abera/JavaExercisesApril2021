@@ -1,5 +1,13 @@
 package day3Exercise;
 
+/*Write a program that takes integer input ( 1 to 7)  from the a user ,1 
+representing Monday to 7 representing Sunday. The program should 
+decide whether the day input is a weekend or a weekday.(Use switch 
+statement)
+Enter number: 1
+You entered 1 for Monday
+Monday is a weekday*/
+
 import java.util.Scanner;
 
 public class Question3 {
